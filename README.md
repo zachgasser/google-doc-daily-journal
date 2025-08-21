@@ -7,7 +7,7 @@ With a [Google One Ai Pro](https://one.google.com/about/google-ai-plans/) subscr
 The following steps walk you through setting up the chrome extension on your machine. You need to do this process every time you want to add this extension to a machine.
 
 ## Step 1
-Go to [Github Repo](https://github.com/zachgasser/google-doc-daily-journal) and download zip.
+Scroll to the top of this page and download zip.
 ![alt text](images_for_readme/github_download_zip.png)
 
 ---
