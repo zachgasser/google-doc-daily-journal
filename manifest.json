@@ -21,15 +21,15 @@
   },
   "action": {
     "default_icon": {
-      "16": "icon16.png",
-      "48": "icon48.png",
-      "128": "icon128.png"
+      "16": "logo_images/icon16.png",
+      "48": "logo_images/icon48.png",
+      "128": "logo_images/icon128.png"
     },
     "default_title": "Open Daily Journal"
   },
   "icons": {
-    "16": "icon16.png",
-    "48": "icon48.png",
-    "128": "icon128.png"
+    "16": "logo_images/icon16.png",
+    "48": "logo_images/icon48.png",
+    "128": "logo_images/icon128.png"
   }
 }
