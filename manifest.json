@@ -14,7 +14,7 @@
     "service_worker": "background.js"
   },
   "oauth2": {
-    "client_id": "",
+    "client_id": "_________________________________________________ENTER YOUR CLIENT ID HERE_________________________________________________",
     "scopes": [
       "https://www.googleapis.com/auth/drive.file"
     ]
